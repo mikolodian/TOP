@@ -1,7 +1,7 @@
 # TOP
-Git Lesson
+GIT LESSON
 
-Learning;
+LEARNING;
 
 Set up
 Basic Commands
