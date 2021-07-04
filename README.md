@@ -21,5 +21,6 @@ Basic Commands
 	push origin main
 	branch <branch-name>
 	checkout <branch-name>
-	branch
-	git branch -d <branch-name>
+	branch <branch-name>
+	branch -d <branch-name>
+	push git@github.com:mikolodian/TOP.git  --delete <remote-branch-name>
