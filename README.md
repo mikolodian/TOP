@@ -22,4 +22,4 @@ Basic Commands
 	branch <branch-name>
 	checkout <branch-name>
 	branch
-
+	git branch -d <branch-name>
