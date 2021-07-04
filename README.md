@@ -3,7 +3,7 @@ GIT LESSON
 
 LEARNING;
 
-Set up
+SET-UP
 Basic Commands
 	init
 	status
